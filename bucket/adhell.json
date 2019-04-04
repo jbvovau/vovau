@@ -1,4 +1,4 @@
-{ "version" : "0.0.2", 
+{ "version" : "0.0.3", 
     "url" : "https://www.dropbox.com/s/yf3678bz4gbgp9y/Adhell-0.0.2.zip?dl=1", 
     "bin": "Adhell.exe",
     "autoupdate": {
