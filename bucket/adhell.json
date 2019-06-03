@@ -1,8 +1,8 @@
-{ "version" : "0.0.2", 
-    "url" : "https://qno.fr/wp-content/download/Adhell_Windows-0.0.2.zip", 
+{ "version" : "0.0.4", 
+    "url" : "https://qno.fr/wp-content/download/Adhell_Windows-0.0.4.zip", 
     "bin": "Adhell.exe",
     "autoupdate": {
         "note": "Adhell dev build !",
-        "url": "https://qno.fr/wp-content/download/Adhell_Windows-0.0.2.zip"
+        "url": "https://qno.fr/wp-content/download/Adhell_Windows-0.0.4.zip"
     }
 }
